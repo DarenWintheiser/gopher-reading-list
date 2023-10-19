@@ -1,4 +1,4 @@
-# Gopher Reading List [![Build](https://github.com/enocom/gopher-reading-list/actions/workflows/ci.yml/badge.svg)](https://github.com/enocom/gopher-reading-list/actions?query=workflow%3ACI+branch%3Amain+)
+# Gopher Reading List [ [Build](https://github.com/enocom/gopher-reading-list/actions/workflows/ci.yml/badge.svg)](https://github.com/enocom/gopher-reading-list/actions?query=workflow%3ACI+branch%3Amain+)
 
 [中文版](https://github.com/qichengzx/gopher-reading-list-zh_CN)
 
@@ -291,3 +291,4 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Data Race Patterns in Go](https://www.uber.com/blog/data-race-patterns-in-go/)
+ 
